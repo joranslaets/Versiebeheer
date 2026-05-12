@@ -10,7 +10,7 @@
   <div class="table">
     <header>
       <h1>Blackjack Royale</h1>
-      <p class="subtitle">Speel aan een luxe casino tafel met live jazz-sfeer.</p>
+      <p class="subtitle">Luxe casinotafel met live dealer</p>
       <div class="bank-row">
         <div>Bank: <span id="bankAmount">€1000</span></div>
         <div>Inzet: <span id="betAmount">€100</span></div>
@@ -22,22 +22,26 @@
         <button class="chip active" data-value="100">100</button>
         <button class="chip" data-value="200">200</button>
       </div>
-      <div class="hint">Klik op een chip om je inzet te kiezen voor het spel.</div>
+      <div class="hint">Kies je inzet en begin het spel.</div>
     </header>
 
     <div class="board">
       <section class="hand dealer-panel">
         <div class="panel-top">
-          <h2>Dealer</h2>
-          <span class="dealer-badge">Banker</span>
+          <h2>DEALER</h2>
+          <span class="dealer-badge">BANKER</span>
         </div>
         <div class="cards" id="dealerCards"></div>
         <div class="status" id="dealerStatus"></div>
       </section>
 
+      <div class="center-action">
+        <button id="startButton" class="start-btn">START SPEL</button>
+      </div>
+
       <section class="hand player-panel">
         <div class="panel-top">
-          <h2>Jouw kaarten</h2>
+          <h2>JOUW HAND</h2>
           <span class="player-badge">VIP</span>
         </div>
         <div id="playerHands"></div>
@@ -45,15 +49,15 @@
     </div>
 
     <div class="controls">
-      <button id="hitButton">Hit</button>
-      <button id="standButton">Stand</button>
-      <button id="doubleButton">Double</button>
-      <button id="splitButton">Split</button>
-      <button id="newGameButton">Nieuw spel</button>
+      <button id="hitButton">HIT</button>
+      <button id="standButton">STAND</button>
+      <button id="doubleButton">DOUBLE</button>
+      <button id="splitButton">SPLIT</button>
+      <button id="newGameButton">NIEUW SPEL</button>
     </div>
 
     <div class="message" id="message"></div>
-    <div class="track-note">Klik ergens op de pagina om de jazzmuziek te starten.</div>
+    <div class="track-note">Klik op de pagina om muziek te starten.</div>
   </div>
 
   <script src="script.js"></script>

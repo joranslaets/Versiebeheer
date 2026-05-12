@@ -9,6 +9,7 @@ const standButton = document.getElementById('standButton');
 const doubleButton = document.getElementById('doubleButton');
 const splitButton = document.getElementById('splitButton');
 const newGameButton = document.getElementById('newGameButton');
+const startButton = document.getElementById('startButton');
 const betChips = document.getElementById('betChips');
 
 let deck = [];
@@ -27,6 +28,7 @@ const suits = ['♠', '♥', '♦', '♣'];
 const values = ['A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K'];
 
 newGameButton.addEventListener('click', startRound);
+startButton.addEventListener('click', startRound);
 hitButton.addEventListener('click', playerHit);
 standButton.addEventListener('click', playerStand);
 doubleButton.addEventListener('click', playerDouble);
@@ -261,6 +263,7 @@ function updateControls() {
     standButton.disabled = true;
     doubleButton.disabled = true;
     splitButton.disabled = true;
+    startButton.disabled = false;
     return;
   }
 
@@ -273,6 +276,7 @@ function updateControls() {
   standButton.disabled = !canHit;
   doubleButton.disabled = !canDouble;
   splitButton.disabled = !canSplit;
+  startButton.disabled = !gameOver && playerHands.length > 0;
 }
 
 function disableRoundButtons() {
@@ -280,6 +284,7 @@ function disableRoundButtons() {
   standButton.disabled = true;
   doubleButton.disabled = true;
   splitButton.disabled = true;
+  startButton.disabled = true;
 }
 
 function canSplitHand(hand) {
