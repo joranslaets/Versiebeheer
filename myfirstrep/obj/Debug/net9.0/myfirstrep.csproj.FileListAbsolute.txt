@@ -1,0 +1,14 @@
+C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\bin\Debug\net9.0\myfirstrep.exe
+C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\bin\Debug\net9.0\myfirstrep.deps.json
+C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\bin\Debug\net9.0\myfirstrep.runtimeconfig.json
+C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\bin\Debug\net9.0\myfirstrep.dll
+C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\bin\Debug\net9.0\myfirstrep.pdb
+C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\obj\Debug\net9.0\myfirstrep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\obj\Debug\net9.0\myfirstrep.AssemblyInfoInputs.cache
+C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\obj\Debug\net9.0\myfirstrep.AssemblyInfo.cs
+C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\obj\Debug\net9.0\myfirstrep.csproj.CoreCompileInputs.cache
+C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\obj\Debug\net9.0\myfirstrep.dll
+C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\obj\Debug\net9.0\refint\myfirstrep.dll
+C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\obj\Debug\net9.0\myfirstrep.pdb
+C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\obj\Debug\net9.0\myfirstrep.genruntimeconfig.cache
+C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\obj\Debug\net9.0\ref\myfirstrep.dll
