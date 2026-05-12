@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("myfirstrep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4518461047b4fb0c5e54615d835877fe0f4d46ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("myfirstrep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("myfirstrep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
