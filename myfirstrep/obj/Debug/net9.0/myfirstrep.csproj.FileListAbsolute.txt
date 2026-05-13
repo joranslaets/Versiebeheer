@@ -12,3 +12,4 @@ C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstre
 C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\obj\Debug\net9.0\myfirstrep.pdb
 C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\obj\Debug\net9.0\myfirstrep.genruntimeconfig.cache
 C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\obj\Debug\net9.0\ref\myfirstrep.dll
+C:\Users\s20606\OneDrive - Campus Sint-Ursula Lier\De Gys\Versiebeheer\myfirstrep\obj\Debug\net9.0\myfirstrep.sourcelink.json
